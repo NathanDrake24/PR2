@@ -112,14 +112,20 @@ git commit -m "Add email to student info"
 И еще 2 коммита
 
 ```bash
-echo "Телефон: +123456789" >> info.txt
+$ echo "Телефон: +123456789" >> info.txt
 git add info.txt
 git commit -m "Add phone number"
 
-echo "GitHub: @Yaana" >> info.txt
+echo "GitHub: @NathanDrake24" >> info.txt
 git add info.txt
 git commit -m "Add GitHub handle"
+
 ```
+---
+
+<img width="1075" height="328" alt="image" src="https://github.com/user-attachments/assets/390fb061-00f7-4eaf-8d02-b8c1b30f2114" />
+
+---
 
 Вносим временные изменения
 
