@@ -73,7 +73,8 @@ git commit -m "Update info: add line 2"
 
 
 
-<img width="982" height="791" alt="image" src="https://github.com/user-attachments/assets/c2b05c3e-1d63-477c-ba55-7e44563dc9d4" />
+<img width="708" height="833" alt="image" src="https://github.com/user-attachments/assets/c847f083-a281-445a-96b6-e7f470c75130" />
+
 
 
 # Создаем ветк bugfix/TASK-3321 от master
