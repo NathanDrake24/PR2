@@ -205,10 +205,6 @@ git merge bugfix/TASK-3321
 nano info.txt
 ```
 
-
-<img width="432" height="372" alt="image" src="https://github.com/user-attachments/assets/c4c7c1a6-440f-4659-abea-d46b1d0c5f2b" />
-
-
 В ручную удаляем конфликтующие строки
 
 <img width="439" height="305" alt="image" src="https://github.com/user-attachments/assets/e95f985c-161a-4e88-9ca6-01839b0d56df" />
