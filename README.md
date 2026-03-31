@@ -19,10 +19,11 @@
 
 ```bash
 git init
-git remote add origin https://github.com/Yaroslavka102741703/PR2.git
+git remote add origin https://github.com/NathanDrake24/PR2.git
 ```
 
-<img width="689" height="113" alt="image" src="https://github.com/user-attachments/assets/9f978982-23a8-4359-8b09-21ce36e631dd" />
+<img width="633" height="57" alt="image" src="https://github.com/user-attachments/assets/62d69cb9-4817-484c-ac2a-400323ac7bc0" />
+
 
 
 # Создадим начальный коммит в ветку master:
