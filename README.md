@@ -13,8 +13,7 @@
 
 Создаем репозиторий с название PR2 на github
 
-<img width="1838" height="872" alt="image" src="https://github.com/user-attachments/assets/600ebc1d-31d1-43ef-9566-a921c69eaccf" />
-
+<img width="1937" height="908" alt="image" src="https://github.com/user-attachments/assets/94005f14-0245-4d8d-98ba-105391cd9b69" />
 
 Инициализируем локальный репозиторий и подключи к GitHub
 
