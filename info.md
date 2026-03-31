@@ -140,7 +140,11 @@ git stash
 
 Переключаемся на feature/TASK-123, смотрим файлы:
 
-<img width="482" height="194" alt="image" src="https://github.com/user-attachments/assets/6d0d41f4-157c-4156-a201-2c5d60bffaac" />
+---
+
+<img width="455" height="179" alt="image" src="https://github.com/user-attachments/assets/b777aeb6-ac9b-405d-bdb4-bd62fabf3fe6" />
+
+---
 
 
 
