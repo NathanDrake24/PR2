@@ -161,7 +161,8 @@ git stash pop
 cat info.txt
 ```
 
-<img width="698" height="450" alt="image" src="https://github.com/user-attachments/assets/4165c2cd-c691-42e8-a0e8-91cabb11f235" />
+<img width="714" height="411" alt="image" src="https://github.com/user-attachments/assets/a96e0bc1-d004-47c9-bf54-7409b3c7171d" />
+
 
 
 Теперь можно закоммитить эти изменения
