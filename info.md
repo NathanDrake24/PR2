@@ -211,7 +211,8 @@ nano info.txt
 
 В ручную удаляем конфликтующие строки
 
-<img width="347" height="184" alt="image" src="https://github.com/user-attachments/assets/380794a8-8029-48b4-bd0e-1ae1ab8ceebd" />
+<img width="439" height="305" alt="image" src="https://github.com/user-attachments/assets/e95f985c-161a-4e88-9ca6-01839b0d56df" />
+
 
 
 ```bash
