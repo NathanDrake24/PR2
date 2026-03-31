@@ -88,13 +88,16 @@ git checkout -b bugfix/TASK-3321
 Теперь изменяем тот же файл info.txt, но в другие строки
 
 ```bash
-echo "Группа: ПИ-430" > info.txt
-echo "Имя: Яна Швыркова" >> info.txt
-echo "Email: Yaroslavka102741703@mail.ru" >> info.txt
+$ echo "Университет: УУНИТ" > info.txt
+
+$ echo "Имя: Гизулин Тагир" >> info.txt
+
+$ echo "Email: gizulintagir@gmail.com" >> info.txt
 ```
 
 
-<img width="546" height="206" alt="image" src="https://github.com/user-attachments/assets/fbf93f22-84ae-43dc-8753-0502ed0f9931" />
+<img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/2e502610-6a99-4e69-b6e5-3d55ba47e356" />
+
 
 
 ---
