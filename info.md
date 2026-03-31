@@ -48,8 +48,8 @@ git checkout -b feature/TASK-123
 Создай файл с ФИО и группой 
 
 ```bash
-echo "Имя: Швыркова Яна" > info.txt
-echo "Группа: ПИ-430Б" >> info.txt
+$ echo "Имя: Гизулин Тагир" > info.txt
+echo "Университет: УУНИТ" >> info.txt
 ```
 
 # Делаем коммит
